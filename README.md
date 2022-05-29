@@ -7,11 +7,12 @@ First is searching for the list of movies of a director and each movie's details
 Second is searching for a list of recommended movies for a given movie. In this option, we can also get the details of each movie viz. director, top 3 cast and genres
 
 
+
 **URL of data sets:**
 
 Movies -> [Movies](https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata?select=tmdb_5000_movies.csv)
 
-Credits -> [Credits](https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata?select=tmdb_5000_credits.csv)
+Credits (cast and crew) -> [Credits](https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata?select=tmdb_5000_credits.csv)
 
 
 
@@ -43,6 +44,6 @@ Credits -> [Credits](https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata?se
  ![image](https://user-images.githubusercontent.com/105063050/170870208-ca5b06dc-d8bd-432c-be11-1a95d6f2d0a1.png)
 
 **ii) We can also compare the details of each movie by clicking on the exapander "See Details"** 
-
+![image](https://user-images.githubusercontent.com/105063050/170870738-7f37234f-41ad-4c73-88c5-6e79f584fb0c.png)
 
 
