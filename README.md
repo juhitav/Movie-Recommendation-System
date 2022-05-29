@@ -9,9 +9,9 @@ Second is searching for a list of recommended movies for a given movie. In this 
 
 **URL of data sets:**
 
-Movies -> https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata?select=tmdb_5000_movies.csv
+Movies -> [Movies](https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata?select=tmdb_5000_movies.csv)
 
-Credits -> https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata?select=tmdb_5000_credits.csv
+Credits -> [Credits](https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata?select=tmdb_5000_credits.csv)
 
 
 
@@ -39,6 +39,10 @@ Credits -> https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata?select=tmdb_
  
  **4) Recommended movies of a selected movie**
  
- 
+ **i)**
+ ![image](https://user-images.githubusercontent.com/105063050/170870208-ca5b06dc-d8bd-432c-be11-1a95d6f2d0a1.png)
+
+**ii) We can also compare the details of each movie by clicking on the exapander "See Details"** 
+
 
 
