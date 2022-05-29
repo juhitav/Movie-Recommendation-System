@@ -42,9 +42,7 @@ Credits (cast and crew) -> [Credits](https://www.kaggle.com/datasets/tmdb/tmdb-m
  **4) Recommended movies of a selected movie**
  
  **i)**
- ![image](https://user-images.githubusercontent.com/105063050/170870208-ca5b06dc-d8bd-432c-be11-1a95d6f2d0a1.png)
-
-
+ ![image](https://user-images.githubusercontent.com/105063050/170882531-86bd1a2b-0043-424c-b391-f886fef5039f.png)
 
 
 **ii) We can also compare the details of each movie by clicking on the exapander**  ***"See Details"*** 
