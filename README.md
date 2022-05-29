@@ -32,7 +32,7 @@ Credits (cast and crew) -> [Credits](https://www.kaggle.com/datasets/tmdb/tmdb-m
  **3) Searching the movies of a Director**
  
  **i)**
- ![image](https://user-images.githubusercontent.com/105063050/170869721-faedc284-aa79-4a2e-830f-d6d9f97983a0.png)
+ ![image](https://user-images.githubusercontent.com/105063050/170882263-b1700e76-57ab-4f04-a576-2f4c3be18d88.png)
  
  
  **ii)**
