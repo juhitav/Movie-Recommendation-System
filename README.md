@@ -34,5 +34,11 @@ Credits -> https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata?select=tmdb_
  ![image](https://user-images.githubusercontent.com/105063050/170869721-faedc284-aa79-4a2e-830f-d6d9f97983a0.png)
  
  **ii)**
+ ![image](https://user-images.githubusercontent.com/105063050/170869994-edd85743-7f4e-4d86-a659-bba1eb7df05b.png)
+ 
+ 
+ **4) Recommended movies of a selected movie**
+ 
+ 
 
 
