@@ -27,3 +27,9 @@ Credits -> https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata?select=tmdb_
 
 ![image](https://user-images.githubusercontent.com/105063050/170869564-cd5dcc0c-bcde-42eb-be42-148f33de974f.png)
  
+ 
+ **3) Searching the movies of a Director**
+ 
+ ![image](https://user-images.githubusercontent.com/105063050/170869721-faedc284-aa79-4a2e-830f-d6d9f97983a0.png)
+
+
