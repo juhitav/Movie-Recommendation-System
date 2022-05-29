@@ -25,7 +25,8 @@ Credits (cast and crew) -> [Credits](https://www.kaggle.com/datasets/tmdb/tmdb-m
 
 **2) Different Options**
 
-![image](https://user-images.githubusercontent.com/105063050/170869564-cd5dcc0c-bcde-42eb-be42-148f33de974f.png)
+![image](https://user-images.githubusercontent.com/105063050/170882093-a4e78ede-1e8d-40dd-b6bf-516290d4b4c9.png)
+
  
  
  **3) Searching the movies of a Director**
