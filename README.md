@@ -36,7 +36,7 @@ Credits (cast and crew) -> [Credits](https://www.kaggle.com/datasets/tmdb/tmdb-m
  
  
  **ii)**
- ![image](https://user-images.githubusercontent.com/105063050/170869994-edd85743-7f4e-4d86-a659-bba1eb7df05b.png)
+ ![image](https://user-images.githubusercontent.com/105063050/170882324-8633a570-5635-4ec1-a500-b004a27efbeb.png)
  
  
  **4) Recommended movies of a selected movie**
