@@ -19,7 +19,7 @@ Credits (cast and crew) -> [Credits](https://www.kaggle.com/datasets/tmdb/tmdb-m
 
 **1) Welcome Page**
 
-![image](https://user-images.githubusercontent.com/105063050/170866401-e17f3ea4-e365-4424-8451-4bd9d0666264.png)
+![image](https://user-images.githubusercontent.com/105063050/170882002-36a5ba03-aa3e-42d9-96db-0720c3882ec9.png)
 
 
 
