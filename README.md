@@ -18,7 +18,12 @@ Credits -> https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata?select=tmdb_
 
 **Screenshots:**
 
-1) **Welcome Page**
+**1) Welcome Page**
 
 ![image](https://user-images.githubusercontent.com/105063050/170866401-e17f3ea4-e365-4424-8451-4bd9d0666264.png)
 
+
+**2) Different Options**
+
+![image](https://user-images.githubusercontent.com/105063050/170869564-cd5dcc0c-bcde-42eb-be42-148f33de974f.png)
+ 
