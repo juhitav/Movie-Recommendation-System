@@ -45,7 +45,7 @@ Credits (cast and crew) -> [Credits](https://www.kaggle.com/datasets/tmdb/tmdb-m
  ![image](https://user-images.githubusercontent.com/105063050/170882531-86bd1a2b-0043-424c-b391-f886fef5039f.png)
 
 
-**ii) We can also compare the details of each movie by clicking on the exapander**  ***"See Details"*** 
+**ii) We can also compare the details of each movie by clicking on the expander**  ***"See Details"*** 
 ![image](https://user-images.githubusercontent.com/105063050/170882584-86af7408-b143-4381-b910-719d555731c9.png)
 
 **For calculating the similarity between movies, I have considered the cosine similarity instead of Eucledian distance 
